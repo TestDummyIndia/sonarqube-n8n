@@ -1,0 +1,6 @@
+projectKey=airflow
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=airflow
+ceTaskId=c1db3f10-9c84-48cc-9760-3519736473e6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c1db3f10-9c84-48cc-9760-3519736473e6
